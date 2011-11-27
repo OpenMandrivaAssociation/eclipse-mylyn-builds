@@ -8,7 +8,7 @@ Name: eclipse-mylyn-builds
 Summary: Eclipse Mylyn Builds
 Version: 3.5.1
 Group:	Development/Java
-Release: 2
+Release: 4
 License: EPL
 URL: http://www.eclipse.org/mylyn/builds/
 
