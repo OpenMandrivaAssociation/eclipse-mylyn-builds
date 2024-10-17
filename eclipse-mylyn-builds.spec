@@ -10,7 +10,7 @@ Version: 3.5.1
 Group:	Development/Java
 Release: 4
 License: EPL
-URL: http://www.eclipse.org/mylyn/builds/
+URL: https://www.eclipse.org/mylyn/builds/
 
 # bash fetch-eclipse-mylyn-builds.sh
 Source0: eclipse-mylyn-builds-R_3_5_1-fetched-src.tar.bz2
